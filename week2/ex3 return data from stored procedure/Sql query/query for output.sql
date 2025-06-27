@@ -1,0 +1,1 @@
+EXEC sp_CountEmployeesByDepartment @DepartmentID = 2;
